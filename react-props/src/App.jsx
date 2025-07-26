@@ -1,7 +1,7 @@
 import User from './components/User'
 const users = [
     {
-        name: "Aarav",
+        name: "Aarush",
         profession: "Software Engineer",
         image: "https://images.unsplash.com/photo-1598346762291-aee88549193f?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzR8fHVzZXJ8ZW58MHwwfDB8fHww"
     },
